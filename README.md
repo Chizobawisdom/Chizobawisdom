@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wisdom Favour Chizoba
-- 👀 I’m interested in automation, robotics and artificial intelligence applications.
+- 👀 I’m interested in automation, IoT, robotics and applied AI applications.
 - 🌱 I’m an Industrial Engineer with a Bachelor's degree from Deggendorf Institute of Technology.
 - I am currently studying a master's degree in Applied AI for digital production management
 - 💞️ I’m looking to collaborate on Python or R projects, automation and robotics projects.
