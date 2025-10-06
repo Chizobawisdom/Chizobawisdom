@@ -1,4 +1,4 @@
-# Wisdom Favour Chizoba — Applied AI & Digital Manufacturing 
+# Wisdom Favour Chizoba — Applied AI & Digital Production
 
 I’m an Industrial Engineer and I’m currently pursuing my Master’s in Applied Artificial Intelligence in Digital Production Management at Deggendorf Institute of Technology.  
 My work explores how AI and automation can make IoT, Robotics, and industrial systems more intelligent, reliable, and adaptive. You can connect with me on LinkedIn (www.linkedin.com/in/wisdomfavourchizoba).
