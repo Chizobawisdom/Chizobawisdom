@@ -10,7 +10,7 @@ My work explores how AI and automation can make IoT, Robotics, and industrial sy
 - Predictive maintenance and intelligent process optimization  
 
 ### Core Skills
-Python | Power BI | Power Platform | SQL | SAP | Azure | Machine Learning | Simulation | Quality Management (8D, ISO 9001, IATF 16949)  
+Python | Machine Learning | Power Platform | SQL | SAP | Azure | Modelling | Simulation | Quality Management (8D, ISO 9001, IATF 16949)  
 
 > *"Turning industrial data into intelligent systems — bridging engineering and AI for smarter production."*
 > 
