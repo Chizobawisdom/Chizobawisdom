@@ -80,9 +80,9 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 
 ---
 
-### 📂 Full Project Catalog
+### Full Project Catalog
 *I maintain 20+ projects across four domains. Explore the complete interactive carousel on my portfolio:*  
-👉 **[chizobawisdom.github.io/Portfolio](https://chizobawisdom.github.io/Portfolio/inedx_en.html)**
+**[chizobawisdom.github.io/Portfolio](https://chizobawisdom.github.io/Portfolio/inedx_en.html)**
 
 ---
 
