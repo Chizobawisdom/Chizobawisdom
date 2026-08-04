@@ -1,7 +1,8 @@
 # Hi, I'm Wisdom Favour Chizoba
 
-**Systems Engineering | Applied AI | Industrial Digitalization**  
+**Manufacturing Systems Engineering | Applied AI | Industrial Digitalization**  
 *M.Eng. Applied Artificial Intelligence for Digital Production Management — Deggendorf Institute of Technology*
+*B.Eng. Industrial Engineering - Deggendorf Institute of Technology*
 
 I architect robust, scalable systems that bridge the gap between legacy industrial processes and advanced AI. My focus is on designing reliable, fail-safe automation pipelines—ensuring that algorithms don't just work in notebooks, but integrate seamlessly into production environments with measurable business impact.
 
@@ -17,13 +18,11 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 ---
 
 ## Featured Systems Engineering Projects
-
 *Curated from my full portfolio—demonstrating numerical robustness, hardware-software integration, statistical process control, and simulation-driven optimisation. For the complete project catalogue (20+ applications), visit my [portfolio carousel](https://chizobawisdom.github.io/Portfolio/index_en.html).*
 
 ---
 
 ### Automation & Tooling
-
 #### [Algorithmic Roots & Polynomial Solvers](https://github.com/Chizobawisdom/Portfolio/tree/8cc2df58c246912ae7be8b3a93641d44c072871d/Utility_and_Automation/polynomial-root-finder)
 > **System Context:** Embedded within a suspension system digital twin to replace slow manual Excel calibration. The solver acts as a numerical watchdog to prevent cascading simulation crashes.
 > 
@@ -34,7 +33,6 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 ---
 
 ### Computer Vision
-
 #### [Vehicle Image Classifier — Two-Stage Fine-Tuning with ResNet50](https://github.com/Chizobawisdom/Portfolio/tree/8cc2df58c246912ae7be8b3a93641d44c072871d/Machine_Vision/vehicle-classification)
 > **System Context:** Designed for industrial visual inspection tasks such as part-type recognition or defect class sorting on a production line, requiring high accuracy and controlled overfitting.
 > 
@@ -45,7 +43,6 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 ---
 
 ### Industrial ML & Analytics
-
 #### [Automated Statistical Process Control (SPC) & Quality Capability Engine](https://github.com/Chizobawisdom/Portfolio/tree/8cc2df58c246912ae7be8b3a93641d44c072871d/Industrial_AI_and_Quality_Engineering/continuous-factory-process-control)
 > **System Context:** Real-time anomaly detection across multi-channel continuous factory sensor streams. Replaces manual plotting with systemic statistical control limits and process capability reporting.
 > 
@@ -63,7 +60,6 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 ---
 
 ### Digital Twins & Simulation
-
 #### [AnyLogic DES — Industrial Quality Gate Capacity Optimisation](https://github.com/Chizobawisdom/Portfolio/tree/8cc2df58c246912ae7be8b3a93641d44c072871d/Digital_Manufacturing_and_Industry_4.0/inspection-bottlneck-station)
 > **System Context:** A bottlenecked manual inspection gate—leadership needed data on whether to hire more inspectors or upgrade equipment speed.
 > 
@@ -80,7 +76,7 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 
 ---
 
-### Full Project Catalog
+### Full Project Catalogue
 *I maintain 20+ projects across four domains. Explore the complete interactive carousel on my portfolio:*  
 **[chizobawisdom.github.io/Portfolio](https://chizobawisdom.github.io/Portfolio/inedx_en.html)**
 
@@ -100,7 +96,6 @@ I architect robust, scalable systems that bridge the gap between legacy industri
 ---
 
 ## My Systems Approach
-
 Every project follows a **V&V-first philosophy**:
 - **Explicit Interface Definition:** Ensuring modular components (data ingestion, logic, output) can be swapped without breaking the whole.
 - **Benchmark-Driven Validation:** Cross-validating results against industry standards (e.g., MATLAB benchmarks, physical test rigs) before deployment.
